@@ -1,1 +1,1 @@
-nome = "Gustavo"
+nome
